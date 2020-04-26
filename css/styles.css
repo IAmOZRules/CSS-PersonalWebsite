@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  text-align: center;
+  align-content: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  background-color: #f7f7f7;
+}
+
+h1 {
+  margin: 0 auto;
+  width: 10%;
+}
+
+h2 { font-family: 'Special Elite', cursive; }
+h3 { font-family: 'Bangers', cursive; }
+
+hr {
+  border-style: dotted none none;
+  border-color: #00bcd4;
+  border-width: 5px;
+  width: 10%;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  text-align: center;
+  align-content: center;
+  width: 70%; margin: auto;
+}
+
+.name {
+  color: #004445;
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+  display: inline;
+  position: relative;
+}
+
+.middle-container {
+  padding: 50px;
+  width: 70%; margin: auto;
+}
+
+.cloud1 {
+  position: absolute;
+  right:0;
+  top: 0;
+}
+
+.cloud2 { position: absolute; }
+
+.bottom-container {
+  background-color: #ffe75e;
+  width: auto;
+  padding: 10px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+}
+
+.movies {
+  position: relative;
+  margin: auto;
+}
+
+.blog_title {
+  position: relative;
+  width: 100%; height: auto;
+  margin: 0 auto;
+  line-height: 0.5;
+  font-size: 50px;
+}
+
+.list {
+  font-family: 'Rajdhani', sans-serif;
+  line-height: 0.5;
+}
+
+.skill { position: relative; }
+.skill1 { float: left; }
+.skill2 { float: right; }
+.footer-linked {
+  display: inline-block;
+}
+.contact { font-family: 'Poiret One', cursive; }
+.skills { position: relative; }
+
+.copyright {
+  font-family: sans-serif;
+  font-size: 15px;
+}
