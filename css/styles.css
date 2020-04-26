@@ -83,10 +83,20 @@ hr {
 .skill { position: relative; }
 .skill1 { float: left; }
 .skill2 { float: right; }
-.footer-linked {
+a {
   display: inline-block;
+  text-decoration: none;
+  margin: 0 40px;
 }
-.contact { font-family: 'Poiret One', cursive; }
+
+a:hover {
+  color: #fe346e;
+}
+
+.contact {
+  font-family: 'Poiret One', cursive;
+  text-decoration: none;
+}
 .skills { position: relative; }
 
 .copyright {
