@@ -43,6 +43,13 @@ hr {
   width: 70%; margin: auto;
 }
 
+a {
+  display: inline-block;
+  text-decoration: none;
+  margin: 0 10px;
+}
+a:hover { color: #fe346e; }
+
 .cloud1 {
   position: absolute;
   right:0;
@@ -83,15 +90,6 @@ hr {
 .skill { position: relative; }
 .skill1 { float: left; }
 .skill2 { float: right; }
-a {
-  display: inline-block;
-  text-decoration: none;
-  margin: 0 40px;
-}
-
-a:hover {
-  color: #fe346e;
-}
 
 .contact {
   font-family: 'Poiret One', cursive;
