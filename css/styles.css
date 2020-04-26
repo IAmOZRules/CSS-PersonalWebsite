@@ -55,8 +55,6 @@ hr {
   background-color: #ffe75e;
   width: auto;
   padding: 10px;
-  font-size: 20px;
-  text-align: left;
 }
 
 .skill-row {
@@ -74,7 +72,7 @@ hr {
   width: 100%; height: auto;
   margin: 0 auto;
   line-height: 0.5;
-  font-size: 70px;
+  font-size: 50px;
 }
 
 .list {
@@ -85,12 +83,13 @@ hr {
 .skill { position: relative; }
 .skill1 { float: left; }
 .skill2 { float: right; }
-.footer-linked { display: inline; }
+.footer-linked {
+  display: inline-block;
+}
 .contact { font-family: 'Poiret One', cursive; }
 .skills { position: relative; }
 
 .copyright {
-  display: inline;
   font-family: sans-serif;
-  font-size: 10px;
+  font-size: 15px;
 }
